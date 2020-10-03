@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97daf02a-7483-4638-9136-2d2266f1a1ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/apps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standios.com/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standios.com/gakusei-shibun/img/shibunIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standios.com/gakusei-shibun/img/shibunIconLarge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standios.com/gakusei-watch/img/196px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standios.com/img/StandinLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/standios.com/gakusei-shibun/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/standios.com/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/standios.com/gakusei-shibun/img" />
+      <recent name="$PROJECT_DIR$/standios.com/gakusei-watch/img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,11 +58,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601760935179</updated>
-      <workItem from="1601760936238" duration="850000" />
+      <workItem from="1601760936238" duration="2550000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1601762210405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601762210405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1074" y="313" key="CommitChangelistDialog2" timestamp="1601762210289">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1074" y="313" key="CommitChangelistDialog2/-1440.23.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1601762210289" />
+    <state x="1067" y="477" key="Vcs.Push.Dialog.v2" timestamp="1601762212700">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1067" y="477" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1601762212700" />
   </component>
 </project>
