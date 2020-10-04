@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="97daf02a-7483-4638-9136-2d2266f1a1ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/standios.com/gakusei-shibun/img/shibunIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standios.com/gakusei-shibun/img/shibunIconLarge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standios.com/gakusei-watch/img/196px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standios.com/img/StandinLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standios.com/standios.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standios.com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/standios.com/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,12 +50,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/standios.com/gakusei-shibun/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -58,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601760935179</updated>
-      <workItem from="1601760936238" duration="2550000" />
+      <workItem from="1601760936238" duration="6550000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1601762210405</created>
@@ -67,24 +86,57 @@
       <option name="project" value="LOCAL" />
       <updated>1601762210405</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Some icons">
+      <created>1601764075862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601764075862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Some icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some icons" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1074" y="313" key="CommitChangelistDialog2" timestamp="1601762210289">
+    <state x="1074" y="313" key="CommitChangelistDialog2" timestamp="1601764075754">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="1074" y="313" key="CommitChangelistDialog2/-1440.23.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1601762210289" />
-    <state x="1067" y="477" key="Vcs.Push.Dialog.v2" timestamp="1601762212700">
+    <state x="1074" y="313" key="CommitChangelistDialog2/-1440.23.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1601764075754" />
+    <state x="620" y="261" key="SettingsEditor" timestamp="1601798379072">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="1067" y="477" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1601762212700" />
+    <state x="620" y="261" key="SettingsEditor/-1440.23.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1601798379072" />
+    <state x="1067" y="477" key="Vcs.Push.Dialog.v2" timestamp="1601764080211">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1067" y="477" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1601764080211" />
   </component>
 </project>

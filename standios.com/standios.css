@@ -1,0 +1,19 @@
+header {
+    background: wheat;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 100px;
+}
+
+footer {
+    text-align: right;
+    font-size: x-small;
+}
+
+body {
+    background: beige;
+}
+
+img {
+    text-align: center;
+}
