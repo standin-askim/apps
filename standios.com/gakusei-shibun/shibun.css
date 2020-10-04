@@ -1,0 +1,14 @@
+footer {
+    text-align: right;
+    font-size: x-small;
+}
+
+body {
+    background-color: #e8c8c2;
+    color: #68464b;
+}
+
+header {
+    background-color: #68464b;
+    color: #e8c8c2;
+}
